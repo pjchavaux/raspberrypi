@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 13 Oct 2014 12:42:00 -0700
+Source: range-asterisk-config
+Binary: range-asterisk-config
+Architecture: source all
+Version: 5.0
+Distribution: unstable
+Urgency: low
+Maintainer: Range Networks, Inc. <info@rangenetworks.com>
+Changed-By: Range Packager <buildmeister@rangenetworks.com>
+Description:
+ range-asterisk-config - Range Networks - Default Asterisk Configuration
+Changes:
+ range-asterisk-config (5.0) unstable; urgency=low
+ .
+     * Test
+Checksums-Sha1:
+ 3bb477bea0972b4708d727e7e04efc2b8fc09f18 642 range-asterisk-config_5.0.dsc
+ 49ffb36d7b774e5259a7a84c543a4fbbe4226322 559711 range-asterisk-config_5.0.tar.gz
+ 7bdb045e7508ffe0716399cf88d49e1498ce26ad 105000 range-asterisk-config_5.0_all.deb
+ dfa48c6b5c81add0630e441f739454919c3d8dd2 4702 range-asterisk-config_5.0_armhf.buildinfo
+Checksums-Sha256:
+ 79bd30c8c473a5edf1ae01144a0c24d767c04ae358a5acede16219f2b23dd723 642 range-asterisk-config_5.0.dsc
+ 8ede270b188f3a460daac28b16511e45485f1273d43c980590cf6ff070f2fbb7 559711 range-asterisk-config_5.0.tar.gz
+ 8a6a9248c7ced722fee575d0aef66640a93800ede2d68bd74ee7dcc33f63943a 105000 range-asterisk-config_5.0_all.deb
+ 9925f65cb3ea20d0f7f3d549d2c3629969e835238937af3b3cdefced866b816f 4702 range-asterisk-config_5.0_armhf.buildinfo
+Files:
+ 8ffc13930fc35725d901aaefc25a0bee 642 comm optional range-asterisk-config_5.0.dsc
+ 9b1fef3bfb6279a9dba66451f681ef6a 559711 comm optional range-asterisk-config_5.0.tar.gz
+ 4729bb36070cae25b25e3f20d8d6f417 105000 comm optional range-asterisk-config_5.0_all.deb
+ 3f169943ec9df0bff50d6eae276cd7d2 4702 comm optional range-asterisk-config_5.0_armhf.buildinfo

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 25 Sep 2014 00:17:42 -0700
+Source: sipauthserve
+Binary: sipauthserve
+Architecture: source armhf
+Version: 5.0
+Distribution: unstable
+Urgency: low
+Maintainer: Range Networks, Inc. <info@rangenetworks.com>
+Changed-By: Range Packager <buildmeister@rangenetworks.com>
+Description:
+ sipauthserve - Range Networks - SIP Authorization Server
+Changes:
+ sipauthserve (5.0) unstable; urgency=low
+ .
+     * Test
+Checksums-Sha1:
+ 35a505a14a717b548496ee947b44cb578ebe3d08 684 sipauthserve_5.0.dsc
+ ca4436c35aa0bc560675ecadc9b6aa47817d134f 1346761 sipauthserve_5.0.tar.gz
+ f47d18f709ec0f7d205fdc715019de5adb829402 4889 sipauthserve_5.0_armhf.buildinfo
+ 17d4857ed56f4390ae4e3845acdb8e433fc82a6a 1044958 sipauthserve_5.0_armhf.deb
+Checksums-Sha256:
+ 4a40d2c9a40706f87f7c1c688d06340345cda4c5f3e96d90906c75d3a15cf47d 684 sipauthserve_5.0.dsc
+ 8a2ce6e5dcd66def516b72d50b18bd586e0d4bfa207c1592173ad6aa7405acb1 1346761 sipauthserve_5.0.tar.gz
+ f4d0a83f382e53a3bec87761e686377dfc3867a0931f354f4a4da53971b4dd42 4889 sipauthserve_5.0_armhf.buildinfo
+ d4567cb966232868e1fde6bfc039501b40de31f9bd0ce6f945073c7f215f74ce 1044958 sipauthserve_5.0_armhf.deb
+Files:
+ 967b4100a9ba5ec91c557a9f78e13cc3 684 comm optional sipauthserve_5.0.dsc
+ 0bfa2222a6ab406f91e9e60332143e19 1346761 comm optional sipauthserve_5.0.tar.gz
+ 0c1ce316a25777cb4be2c19cfb797e36 4889 comm optional sipauthserve_5.0_armhf.buildinfo
+ 024e4a326efcc079d751a2eef203740c 1044958 comm optional sipauthserve_5.0_armhf.deb
